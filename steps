@@ -1,0 +1,17 @@
+
+
+```
+brew install npm
+brew install node
+brew link --overwrite node
+
+
+npm install -g @angular/cli@latest
+npm install -g webpack
+
+
+
+ng new angularjs-ts-webpack
+
+
+```
